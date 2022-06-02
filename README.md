@@ -13,6 +13,7 @@
 ![December_temp](Dec_temp.png)
 
 - Although the December minimum temp was 8 degrees lower, the mean and median temp between June and December was only 4 degrees different.
+
 ![june_describe](June_info.png)
 ![December_describe](Dec_info.png)
 
