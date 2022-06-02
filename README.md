@@ -1,4 +1,4 @@
-# surfs_up
+# Surfing & Shake in Hawaii
 
 ## Overview of the analysis:
 - Hawaii is an attractive place for me. I want to be able to live there, enjoying surfing everyday and hopefully making a living as well. Therefore, I got an idea of opening a surfing shake shop in Hawaii to serve surf boards and ice-creams to locals, tourists and myself. Although I have some savings, I need to have some real investor backing to get this off the ground. I reached out to the famous investor W. Ay, who is also well-known for his level of surfing, about my strong business plan.
