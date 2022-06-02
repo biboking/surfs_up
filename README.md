@@ -9,7 +9,7 @@
 - We analyzed the temperature data from 2010 to 2017, and we picked two months for illustration, June and December.
 - The temperatures of June were obviously higher than those of Decmember. However, the differences were very limited.
 - From the screenshots below, we can see that the range of June temp was between 64 to 85, and the range of December Temp was between 56 and 83.
-![June_temp](../images/June_temp.png)
+![June_temp](June_temp.png)
 ![December_temp]()
 
 - Although the December minimum temp was 8 degrees lower, the mean and median temp between June and December was only 4 degrees different.
