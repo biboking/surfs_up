@@ -14,6 +14,9 @@
 
 - Although the December minimum temp was 8 degrees lower, the mean and median temp between June and December was only 4 degrees different.
 ![june_describe](June_info.png)
-![December_describe](Dec_info)
+![December_describe](Dec_info.png)
+
 ## Summary:
-- Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+- In general, the temperature of Hawaii should not be a concern for the success of surfing & Shake shop.
+- For further research and analysis, I will first look into the precipitation of June and December of Hawaii. The screenshot below shows that it rarely rained in Hawaii from 2010 to 2017, either in June or December. Therefore, we can confidently tell W. Ay that the ice-cream shop in Hawaii should not be rained out, or influence by the weather there.
+![prcp](prcp.png)
